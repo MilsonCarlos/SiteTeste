@@ -24,6 +24,19 @@ git remote add origin https://github.com/MilsonCarlos/SiteTeste.git
 git push -u origin master
 
 
+------------------------------------
+DOWNLOAD DE REPOSITÓRIO:
+Copie o link do github.
+
+git clone https://github.com/lippekstro/noticias_134.git
+
+Abra Git Bash na pasta criada.
+
+git fetch
+
+git status
+
+git pull origin
 
 
 
