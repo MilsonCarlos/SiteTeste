@@ -1,0 +1,30 @@
+ENVIAR CÓDIGOS PARA O GITHUB USANDO GIT:
+
+Baixe o Git instale no computador.
+Crie uma conta no github.com.
+Abra o git bash.
+
+Acesse sua pasta:
+cd c:/xampp/htdocs/Aula_php/SiteApostas
+
+git init
+
+git add --all
+
+Seu usuário no Github:
+git config user.email "milsonaluno@gmail.com"
+
+Seu nome no Github:
+git config user.name "MilsonCarlos"
+
+git commit -m "primeiro commit"
+
+git remote add origin https://github.com/MilsonCarlos/SiteTeste.git
+
+git push -u origin master
+
+
+
+
+
+
